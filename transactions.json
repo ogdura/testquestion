@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2024.05.05",
+        "category": "доход",
+        "amount": 45000.0,
+        "description": "зарплата"
+    },
+    {
+        "date": "2024-05-06",
+        "category": "расход",
+        "amount": 3000.0,
+        "description": "Обед "
+    }
+]
